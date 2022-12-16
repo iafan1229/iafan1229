@@ -23,11 +23,11 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Recoil-0CB92E?style=flat&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-0CB92E?style=flat&logo=React-Recoil.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-DC321B?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/StyledComponents-pink?style=flat&logo=StyledComponents&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-DC5B1B?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-3E31DC?style=flat&logo=FireBase&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-1AC8CD?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/THREE-cyan?style=flat&logo=THREE&logoColor=white" />
+	<img src="https://img.shields.io/badge/THREE-E10760?style=flat&logo=THREE.js&logoColor=white" />
 </div>
