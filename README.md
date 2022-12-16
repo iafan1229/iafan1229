@@ -24,9 +24,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Recoil-0CB92E?style=flat&logo=Recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextJs-DC321B?style=flat&logo=NextJs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-DC321B?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/StyledComponents-pink?style=flat&logo=StyledComponents&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJs-DC5B1B?style=flat&logo=NodeJs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-DC5B1B?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-3E31DC?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-1AC8CD?style=flat&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/THREE-cyan?style=flat&logo=THREE&logoColor=white" />
 </div>
