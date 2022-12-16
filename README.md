@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Recoil-0CB92E?style=flat&logo=Recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextjs-DC321B?style=flat&logo=Nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextJs-DC321B?style=flat&logo=NextJs&logoColor=white" />
   <img src="https://img.shields.io/badge/StyledComponents-pink?style=flat&logo=StyledComponents&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeJs-DC5B1B?style=flat&logo=NodeJs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-3E31DC?style=flat&logo=Firebase&logoColor=white" />
