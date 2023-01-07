@@ -11,6 +11,7 @@
 
 
 <div align="center">
+	<img src="https://img.shields.io/badge/vue-pink?style=flat&logo=vue&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactQuery-gray?style=flat&logo=ReactQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-deepgreen?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React-skyblue?style=flat&logo=React&logoColor=white" />
