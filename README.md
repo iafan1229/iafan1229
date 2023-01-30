@@ -1,8 +1,5 @@
 ### 👋 Frontend Developer
 <hr/>
-
-*/
-<br><br>
 <h3>⛏ Skills</h3>
 <hr/>
 
