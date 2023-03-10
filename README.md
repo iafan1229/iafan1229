@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=Frontend Developer&fontSize=90" />
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### 💻 Work Experience
+<hr/>
 
 <p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(React)</p>
 <p>2023.02 ~ current : 송아리아이티 프론트엔드 개발(Vue)</p>
 
 ### 📚 Education
+<hr/>
 
 <p>2009.03 ~ 2015.02 : 한국외대</p>
 	
 ### ⛏ Skills
+<hr/>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/VueJs-red?style=flat&logo=VueJs&logoColor=white" />
