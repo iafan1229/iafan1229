@@ -2,8 +2,20 @@
 
 ### 👋 Frontend Developer
 
+<hr/>
+<h3>⛏ Work Experience</h3>
+<hr/>
 
+<p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(React)</p>
+<p>2023.02 ~ current : 송아리아이티 프론트엔드 개발(Vue)</p>
 
+<hr/>
+<h3>⛏ Education</h3>
+<hr/>
+
+<p>2009.03 ~ 2015.02 : 한국외대</p>
+
+	
 <hr/>
 <h3>⛏ Skills</h3>
 <hr/>
@@ -32,4 +44,5 @@
 	<img src="https://img.shields.io/badge/THREE-E10760?style=flat&logo=THREE.js&logoColor=white" />
 </div>
 
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iafan1229&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
