@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=FrontEnd%20Developer&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FrontEnd%20Developer&fontSize=60)
 
 ### 💻 Work Experience
 <hr/>
