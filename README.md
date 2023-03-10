@@ -32,4 +32,4 @@
 	<img src="https://img.shields.io/badge/THREE-E10760?style=flat&logo=THREE.js&logoColor=white" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브ID&layout=compact&theme=본인이선택한테마명&langs_count=보여주고싶은언어개수)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iafan1229&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
