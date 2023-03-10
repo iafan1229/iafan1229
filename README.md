@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyDev&fontSize=90" />
 
 ### 👋 Frontend Developer
-
-### ⛏ Work Experience
+<hr/>
+### 💻 Work Experience
 
 <p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(React)</p>
 <p>2023.02 ~ current : 송아리아이티 프론트엔드 개발(Vue)</p>
 
-### ⛏ Education
+### 📚 Education
 
 <p>2009.03 ~ 2015.02 : 한국외대</p>
 	
