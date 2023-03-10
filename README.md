@@ -2,24 +2,16 @@
 
 ### 👋 Frontend Developer
 
-<hr/>
-<h3>⛏ Work Experience</h3>
-<hr/>
+### ⛏ Work Experience
 
 <p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(React)</p>
 <p>2023.02 ~ current : 송아리아이티 프론트엔드 개발(Vue)</p>
 
-<hr/>
-<h3>⛏ Education</h3>
-<hr/>
+### ⛏ Education
 
 <p>2009.03 ~ 2015.02 : 한국외대</p>
-
 	
-<hr/>
-<h3>⛏ Skills</h3>
-<hr/>
-
+### ⛏ Skills
 
 <div align="center">
 	<img src="https://img.shields.io/badge/VueJs-red?style=flat&logo=VueJs&logoColor=white" />
