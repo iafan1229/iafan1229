@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyDev&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=👋 Frontend Developer&fontSize=90" />
 
-### 👋 Frontend Developer
-<hr/>
+
 ### 💻 Work Experience
 
 <p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(React)</p>
