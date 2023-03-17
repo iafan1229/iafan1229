@@ -3,7 +3,6 @@
 ### 💻 Work Experience
 <hr/>
 
-<p>2023.02 ~ CURRENT : 송아리아이티 프론트엔드 개발(VueJS)</p>
 <p>2022.07 ~ 2023.01 : 티윈 프론트엔드 개발(ReactJS)</p>
 
 ### 📚 Education
