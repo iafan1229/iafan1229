@@ -10,7 +10,7 @@
 
 <p>2009.03 ~ 2015.02 : 한국외대 졸업</p>
 
-### Tech Stacks
+### ⛏ Tech Stacks
 <hr/>
 
 <ul>
