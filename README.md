@@ -9,7 +9,18 @@
 <hr/>
 
 <p>2009.03 ~ 2015.02 : 한국외대 졸업</p>
-	
+
+### Tech Stacks
+<hr/>
+
+<ul>
+<li>HTML5, CSS3, JavaScript(ES6 이상), TypeScript</li>
+<li>React.js, Next.js, Vue3</li>
+<li>Scss, Styled-Component</li>
+<li>Redux, Recoil, Context api, Vuex, Pinia</li>
+<li>React-Query</li>
+</ul>
+
 ### ⛏ Skills
 <hr/>
 
