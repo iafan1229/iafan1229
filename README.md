@@ -3,7 +3,7 @@
 ### 💻 Work Experience
 <hr/>
 
-<p>2023.07 ~ current : 슈가힐 프론트엔드 개발(Next.js)
+<p>2023.07 ~ current : 프론트엔드 개발(Next.js)
 	
 ### 📚 Education
 <hr/>
